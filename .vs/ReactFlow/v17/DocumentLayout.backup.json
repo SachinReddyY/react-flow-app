@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SACHIN\\source\\repos\\ReactFlow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{801C3078-5619-42D3-9F06-DC308261F1AE}|reactflow.client\\reactflow.client.esproj|c:\\users\\sachin\\source\\repos\\reactflow\\reactflow.client\\src\\components\\diagram.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{801C3078-5619-42D3-9F06-DC308261F1AE}|reactflow.client\\reactflow.client.esproj|solutionrelative:reactflow.client\\src\\components\\diagram.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801C3078-5619-42D3-9F06-DC308261F1AE}|reactflow.client\\reactflow.client.esproj|c:\\users\\sachin\\source\\repos\\reactflow\\reactflow.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{801C3078-5619-42D3-9F06-DC308261F1AE}|reactflow.client\\reactflow.client.esproj|solutionrelative:reactflow.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801C3078-5619-42D3-9F06-DC308261F1AE}|reactflow.client\\reactflow.client.esproj|c:\\users\\sachin\\source\\repos\\reactflow\\reactflow.client\\src\\components\\sidebar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{801C3078-5619-42D3-9F06-DC308261F1AE}|reactflow.client\\reactflow.client.esproj|solutionrelative:reactflow.client\\src\\components\\sidebar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801C3078-5619-42D3-9F06-DC308261F1AE}|reactflow.client\\reactflow.client.esproj|c:\\users\\sachin\\source\\repos\\reactflow\\reactflow.client\\src\\context\\diagramcontext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{801C3078-5619-42D3-9F06-DC308261F1AE}|reactflow.client\\reactflow.client.esproj|solutionrelative:reactflow.client\\src\\context\\diagramcontext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801C3078-5619-42D3-9F06-DC308261F1AE}|reactflow.client\\reactflow.client.esproj|c:\\users\\sachin\\source\\repos\\reactflow\\reactflow.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{801C3078-5619-42D3-9F06-DC308261F1AE}|reactflow.client\\reactflow.client.esproj|solutionrelative:reactflow.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801C3078-5619-42D3-9F06-DC308261F1AE}|reactflow.client\\reactflow.client.esproj|c:\\users\\sachin\\source\\repos\\reactflow\\reactflow.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{801C3078-5619-42D3-9F06-DC308261F1AE}|reactflow.client\\reactflow.client.esproj|solutionrelative:reactflow.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\SACHIN\\source\\repos\\ReactFlow\\reactflow.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "reactflow.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\SACHIN\\source\\repos\\ReactFlow\\reactflow.client\\src\\App.jsx",
+              "RelativeToolTip": "reactflow.client\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-10T15:13:27.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sidebar.jsx",
+              "DocumentMoniker": "C:\\Users\\SACHIN\\source\\repos\\ReactFlow\\reactflow.client\\src\\components\\Sidebar.jsx",
+              "RelativeDocumentMoniker": "reactflow.client\\src\\components\\Sidebar.jsx",
+              "ToolTip": "C:\\Users\\SACHIN\\source\\repos\\ReactFlow\\reactflow.client\\src\\components\\Sidebar.jsx",
+              "RelativeToolTip": "reactflow.client\\src\\components\\Sidebar.jsx",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-10T15:50:42.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\SACHIN\\source\\repos\\ReactFlow\\reactflow.client\\src\\App.css",
+              "RelativeDocumentMoniker": "reactflow.client\\src\\App.css",
+              "ToolTip": "C:\\Users\\SACHIN\\source\\repos\\ReactFlow\\reactflow.client\\src\\App.css",
+              "RelativeToolTip": "reactflow.client\\src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-10T15:32:52.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiagramContext.jsx",
+              "DocumentMoniker": "C:\\Users\\SACHIN\\source\\repos\\ReactFlow\\reactflow.client\\src\\context\\DiagramContext.jsx",
+              "RelativeDocumentMoniker": "reactflow.client\\src\\context\\DiagramContext.jsx",
+              "ToolTip": "C:\\Users\\SACHIN\\source\\repos\\ReactFlow\\reactflow.client\\src\\context\\DiagramContext.jsx",
+              "RelativeToolTip": "reactflow.client\\src\\context\\DiagramContext.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-10T15:18:43.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\SACHIN\\source\\repos\\ReactFlow\\reactflow.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "reactflow.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\SACHIN\\source\\repos\\ReactFlow\\reactflow.client\\src\\main.jsx",
+              "RelativeToolTip": "reactflow.client\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-10T15:13:25.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Diagram.jsx",
+              "DocumentMoniker": "C:\\Users\\SACHIN\\source\\repos\\ReactFlow\\reactflow.client\\src\\components\\Diagram.jsx",
+              "RelativeDocumentMoniker": "reactflow.client\\src\\components\\Diagram.jsx",
+              "ToolTip": "C:\\Users\\SACHIN\\source\\repos\\ReactFlow\\reactflow.client\\src\\components\\Diagram.jsx",
+              "RelativeToolTip": "reactflow.client\\src\\components\\Diagram.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-10T15:17:29.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

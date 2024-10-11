@@ -1,0 +1,6 @@
+@ReactFlow.Server_HostAddress = http://localhost:5076
+
+GET {{ReactFlow.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "vlIs6RmyHwLfWeFNSAgr92uN49sX9lzemQ9mWsz/zqU=",
+  "Source": "ReactFlow.Server",
+  "BasePath": "_content/ReactFlow.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\SACHIN\\source\\repos\\ReactFlow\\reactflow.client\\reactflow.client.esproj",
+      "Version": 2,
+      "Source": "reactflow.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
